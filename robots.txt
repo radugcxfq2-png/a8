@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://readwise.com/sitemap.xml
